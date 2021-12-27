@@ -1,3 +1,5 @@
+Exercícios do curso "Introdução à programação em linguagem R para Humanidades", do LEPECS + P4H / USP, realizado entre 25/08 e 10/09/2021
+
 Conteúdo aprendido:
 - tipos de estruturas no R; <br>
 - funções e pacotes no R; <br>
